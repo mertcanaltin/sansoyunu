@@ -1,0 +1,10 @@
+D:\Yeni klasör (2)\Sans_Oyunu\Sans_Oyunu\bin\Debug\Sans_Oyunu.exe.config
+D:\Yeni klasör (2)\Sans_Oyunu\Sans_Oyunu\bin\Debug\Sans_Oyunu.exe
+D:\Yeni klasör (2)\Sans_Oyunu\Sans_Oyunu\bin\Debug\Sans_Oyunu.pdb
+D:\Yeni klasör (2)\Sans_Oyunu\Sans_Oyunu\bin\Debug\Sans_Oyunu.xml
+D:\Yeni klasör (2)\Sans_Oyunu\Sans_Oyunu\obj\Debug\Sans_Oyunu.Form1.resources
+D:\Yeni klasör (2)\Sans_Oyunu\Sans_Oyunu\obj\Debug\Sans_Oyunu.Resources.resources
+D:\Yeni klasör (2)\Sans_Oyunu\Sans_Oyunu\obj\Debug\Sans_Oyunu.vbproj.GenerateResource.Cache
+D:\Yeni klasör (2)\Sans_Oyunu\Sans_Oyunu\obj\Debug\Sans_Oyunu.exe
+D:\Yeni klasör (2)\Sans_Oyunu\Sans_Oyunu\obj\Debug\Sans_Oyunu.xml
+D:\Yeni klasör (2)\Sans_Oyunu\Sans_Oyunu\obj\Debug\Sans_Oyunu.pdb
